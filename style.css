@@ -62,7 +62,7 @@ header p {
 }
 
 .receita-imagem {
-    height: 300px;
+    height: 200px;
     background-color: var(--lilás-claro);
     display: flex;
     align-items: center;
